@@ -1,0 +1,59 @@
+@charset "UTF-8";
+body{
+    background-color:white;
+}
+.logo{
+    width: 25%;
+    height: auto;
+    margin-top: 70px;
+    margin-left: 0px;
+}
+ul{
+    list-style: none;
+    font-family: 'Arial Rounded MT',sans-serif;
+}
+.main-nav{display: flex;
+    font-size: 32px;
+    margin-top: 40px;
+}
+.main-nav li{
+    margin-left: 40px;
+}
+.page-header{
+    display: flex;
+    justify-content: space-between;
+}
+.wrapper{
+    max-width: 1900px;
+    margin:auto;
+    padding: 0 4%;
+}
+.home-content{
+    font-family: 'Arial',sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 180px;
+}
+
+.flex{
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: -30px;
+    display: flex;
+}
+.about-me{
+    margin: 0 0 0 20px;
+    padding: 0;
+}
+.tachie{
+    width: 500px;
+    height: 800px;
+}
+.flex .name{
+    font-family:Arial,'Meiryo UI',sans-serif ;
+    font-size: 60px;
+}
+.flex .about{
+    font-size: 30px;
+}
