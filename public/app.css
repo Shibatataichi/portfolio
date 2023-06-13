@@ -5,14 +5,15 @@ body{
 .logo{
     width: 25%;
     height: auto;
-    margin-top: 70px;
+    margin-top: 20px;
     margin-left: 0px;
 }
 ul{
     list-style: none;
     font-family: 'Arial Rounded MT',sans-serif;
 }
-.main-nav{display: flex;
+.main-nav{
+    display: flex;
     font-size: 32px;
     margin-top: 40px;
 }
