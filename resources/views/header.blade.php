@@ -1,9 +1,11 @@
 <header class="page-header wrapper">
+    <a href={{'/'}}>
     <img class="logo" src="images/rogo.png" alt="rogo">
+    </a>
     <nav>
         <ul class="main-nav">
             <li><a href={{'about'}}>about</a></li>
-            <li><a href="">works</a></li>
+            <li><a href={{'works'}}>works</a></li>
             <li><a href="https://twitter.com/shibata_taichi">SNS</a></li>
             <li><a href="">contact</a></li>
         </ul>

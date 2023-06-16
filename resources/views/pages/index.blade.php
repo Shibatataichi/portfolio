@@ -1,4 +1,5 @@
 @extends('layout')
+@section('title','芝多たいち | HOME')
 @include('header')
 @section('content')
     <div class="home-content wtapper">
