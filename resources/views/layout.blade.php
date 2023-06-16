@@ -6,4 +6,5 @@
         <meta name="description" content="Vtuber、音楽有償依頼、MIX、楽曲依頼、配信">
         <link rel="stylesheet" href="/app.css">
     </head>
-    <body>
+<body>
+    @yield('content')
