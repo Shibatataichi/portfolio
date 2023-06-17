@@ -62,3 +62,46 @@ ul{
     width: 300px;
     height: auto;
 }
+
+.tab{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+}
+
+.tab li a{
+    display: block;
+    background: #eafffb;
+    margin: 0 2px;
+    padding: 20px 40px;
+}
+
+.tab li .active a{
+    background: #eafffb;
+}
+
+.area{
+    display: none;
+    opacity: 0;
+    background: #eafffb;
+    margin-left: 40px;
+    padding: 50px 10px;
+}
+
+.area.is-active{
+    display: block;
+    width: 1180px;
+    animation-name: displayAnime;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    background: #eafffb;
+}
+
+@keyframes displayAnime{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}

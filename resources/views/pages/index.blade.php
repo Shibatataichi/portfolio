@@ -10,6 +10,5 @@
             and more...
         </p>
     </div>
-</body>
-</html>
 @endsection
+@extends('footer')
