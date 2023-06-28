@@ -1,8 +1,9 @@
 @extends('layout')
-@section('title','芝多たいち | HOME')
 @include('header')
+
+@section('title','芝多たいち | TOP')
 @section('content')
-    <div class="home-content wtapper">
+<div class="home-content wtapper">
         <p>Vtuber,<br>
             composer,<br>
             streamer,<br>
@@ -10,5 +11,6 @@
             and more...
         </p>
     </div>
+@include('footer')
 @endsection
-@extends('footer')
+

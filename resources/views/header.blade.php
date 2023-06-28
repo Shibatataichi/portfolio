@@ -1,6 +1,6 @@
 <header class="page-header wrapper">
     <a href={{'/'}}>
-    <img class="logo" src="images/rogo.png" alt="rogo">
+    <img class="logo" src="images/newrogo.svg" alt="rogo">
     </a>
     <nav>
         <ul class="main-nav">

@@ -1,6 +1,8 @@
+@include('footer')
+@include('header')
 @extends('layout')
 @section('title','芝多たいち | about')
-@include('header')
+
 @section('content') 
 <div class="containor">       
     <img class="tachie" src="images/tachie.png" alt="芝多たいち立ち絵.png">
@@ -17,5 +19,5 @@
             </div>
         </div>
 </div>
-@endsection
 @extends('footer')
+@endsection

@@ -66,31 +66,36 @@ ul{
 .tab{
     display: flex;
     flex-wrap: wrap;
-    margin: 0;
+    margin-left: 40px;
 }
 
 .tab li a{
     display: block;
     background: #eafffb;
-    margin: 0 2px;
+    margin-top: 20px;
     padding: 20px 40px;
 }
 
-.tab li .active a{
+.contents{
+    margin: 20px;
+}
+
+.tab li.active a{
     background: #eafffb;
 }
 
 .area{
     display: none;
     opacity: 0;
-    background: #eafffb;
+    background: #fffbea;
     margin-left: 40px;
+    margin-right: 40px;
     padding: 50px 10px;
 }
 
 .area.is-active{
     display: block;
-    width: 1180px;
+    width: auto;
     animation-name: displayAnime;
     animation-duration: 1s;
     animation-fill-mode: forwards;
