@@ -71,8 +71,10 @@ ul{
 
 .tab li a{
     display: block;
-    background: #eafffb;
+    background: #46ccb3;
     margin-top: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
     padding: 20px 40px;
 }
 
@@ -81,13 +83,13 @@ ul{
 }
 
 .tab li.active a{
-    background: #eafffb;
+    background: #46ccb3;
 }
 
 .area{
     display: none;
     opacity: 0;
-    background: #fffbea;
+    background: #46ccb3;
     margin-left: 40px;
     margin-right: 40px;
     padding: 50px 10px;
@@ -99,7 +101,7 @@ ul{
     animation-name: displayAnime;
     animation-duration: 1s;
     animation-fill-mode: forwards;
-    background: #eafffb;
+    background: #46ccb3;
 }
 
 @keyframes displayAnime{

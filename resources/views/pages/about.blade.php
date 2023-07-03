@@ -1,5 +1,3 @@
-@include('footer')
-@include('header')
 @extends('layout')
 @section('title','芝多たいち | about')
 
@@ -19,5 +17,6 @@
             </div>
         </div>
 </div>
-@extends('footer')
 @endsection
+@include('footer')
+

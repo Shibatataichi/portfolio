@@ -1,6 +1,4 @@
 @extends('layout')
-@include('header')
-
 @section('title','芝多たいち | TOP')
 @section('content')
 <div class="home-content wtapper">
@@ -11,6 +9,6 @@
             and more...
         </p>
     </div>
-@include('footer')
-@endsection
 
+@endsection
+@include('footer')
