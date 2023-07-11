@@ -7,7 +7,7 @@
             <li><a href={{'about'}}>about</a></li>
             <li><a href={{'works'}}>works</a></li>
             <li><a href="https://twitter.com/shibata_taichi">SNS</a></li>
-            <li><a href="">contact</a></li>
+            <li><a href={{'create'}}>contact</a></li>
         </ul>
     </nav>
 </header>

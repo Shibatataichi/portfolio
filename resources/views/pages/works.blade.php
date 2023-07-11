@@ -19,8 +19,6 @@
 
                 <li class="contents"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AoyPaMxp1Y8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></li>
 
-                <li class="contents"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7JHT_1JY0SI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></li>
-
                 <li class="contents"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WYr90BdFLXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></li>
 
                 <li class="contents"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0noWYbXlHJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></li>
@@ -29,7 +27,6 @@
 
                 <li class="contents"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w17zh77qV5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></li>
 
-                <li class="contents">
             </ul>
         </div>
     </div>
