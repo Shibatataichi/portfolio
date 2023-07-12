@@ -15,9 +15,9 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', 'HomeController@viewindex');
 
-Route::get('/about', 'HomeController@viewabout');
+Route::get('/about', 'HomeController@viewabout')->name('about');
 
-Route::get('/works', 'HomeController@viewworks');
+Route::get('/works', 'HomeController@viewworks')->name('works');
 
 //お問い合わせフォームのページを表示
 Route::get('/contact','ContactController@create')->name('contact');

@@ -3,12 +3,15 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Models\Contact;
+use Illuminate\Support\Facades\Mail;
+use App\Mail\ContactForm;
 
 class ContactController extends Controller
 {
     public function create()
     {
-        return view('contact');
+        return view('pages.create');
     }
 
     public function store(Request $request)
