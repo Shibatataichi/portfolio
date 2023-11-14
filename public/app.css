@@ -87,7 +87,6 @@ ul{
 
 .contents{
     margin: 20px;
-
 }
 
 .tab li.active a{
@@ -100,10 +99,6 @@ ul{
     margin-left: 40px;
     margin-right: 40px;
     padding: 50px 10px;
-}
-
-.headline{
-    display: flex;
 }
 
 .area.is-active{
