@@ -78,18 +78,14 @@ ul{
     padding: 20px 40px;
 }
 
+.tab li.active a{
+    background: #46ccb3;
+}
+
 .headline{
     display: grid;
     gap: 10px;
     grid-template-columns: 1fr 1fr 1fr;
-}
-
-.contents{
-    margin: 20px;
-}
-
-.tab li.active a{
-    background: #46ccb3;
 }
 
 .area{ 
@@ -101,7 +97,7 @@ ul{
 }
 
 .area.is-active{
-    display: block;
+    display: none;
     width: auto;
     animation-name: displayAnime;
     animation-duration: 1s;
