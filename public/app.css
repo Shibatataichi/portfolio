@@ -97,7 +97,7 @@ ul{
 }
 
 .area.is-active{
-    display: none;
+    display: block;
     width: auto;
     animation-name: displayAnime;
     animation-duration: 1s;
