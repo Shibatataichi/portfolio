@@ -70,7 +70,7 @@ ul{
 
 .tab li a{
     display: block;
-    background: #46ccb3;
+    background: #cffff6;
     margin-top: 20px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
@@ -82,16 +82,20 @@ ul{
 }
 
 .tab li.active a{
-    background: #a6faeb;
+    background: #000000;
 }
 
 .area{
-    display: flex;
+    
     opacity: 0;
     background: #a6faeb;
     margin-left: 40px;
     margin-right: 40px;
     padding: 50px 10px;
+}
+
+.headline{
+    display: flex;
 }
 
 .area.is-active{
