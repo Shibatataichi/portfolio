@@ -101,11 +101,16 @@ ul{
     margin-left: 40px;
     margin-right: 40px;
     padding: 50px 10px;
+    aspect-ratio: 16/9;
 }
 
 .contents{
     margin: auto;
 
+}
+.contents iframe{
+    width: 100%;
+    height: 100%;
 }
 
 .area.is-active{
