@@ -88,14 +88,14 @@ ul{
     grid-template-columns: 1fr 1fr 1fr;
 }
 
-.area{ 
+.area{
+    display: none;
     opacity: 0;
     background: #46ccb3;
     margin-left: 40px;
     margin-right: 40px;
     padding: 50px 10px;
 }
-
 .area.is-active{
     display: block;
     width: auto;
