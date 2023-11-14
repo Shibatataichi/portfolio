@@ -1,25 +1,31 @@
 @charset "UTF-8";
+
 body{
     background-color:white;
 }
+
 .logo{
     width: auto;
     height: 72px;
     margin-top: 20px;
     margin-left: 0px;
 }
+
 ul{
     list-style: none;
     font-family: 'Arial Rounded MT',sans-serif;
 }
+
 .main-nav{
     display: flex;
     font-size: 32px;
     margin-top: 40px;
 }
+
 .main-nav li{
     margin-left: 40px;
 }
+
 .page-header{
     display: flex;
     justify-content: space-between;
@@ -96,6 +102,11 @@ ul{
     margin-right: 40px;
     padding: 50px 10px;
 }
+
+.contents{
+    margin: auto; 
+}
+
 .area.is-active{
     display: block;
     width: auto;
