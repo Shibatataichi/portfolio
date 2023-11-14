@@ -29,6 +29,7 @@ ul{
     margin:auto;
     padding: 0 4%;
 }
+
 .home-content{
     font-family: 'Arial',sans-serif;
     font-weight: bold;
@@ -70,25 +71,30 @@ ul{
 
 .tab li a{
     display: block;
-    background: #cffff6;
+    background: #46ccb3;
     margin-top: 20px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     padding: 20px 40px;
 }
 
+.headline{
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(auto-fit,minmax(240px.1hr));
+}
 .contents{
     margin: 20px;
+
 }
 
 .tab li.active a{
-    background: #000000;
+    background: #ff0000;
 }
 
-.area{
-    
+.area{ 
     opacity: 0;
-    background: #a6faeb;
+    background: #2e6d61;
     margin-left: 40px;
     margin-right: 40px;
     padding: 50px 10px;
