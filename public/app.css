@@ -91,7 +91,7 @@ ul{
 .headline{
     display: grid;
     gap: 10px;
-    grid-template-columns:repeat(auto-fit,1fr 1fr 1fr);
+    grid-template-columns:repeat(auto-fit,1fr);
 }
 
 .area{
