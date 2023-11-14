@@ -82,6 +82,10 @@ ul{
     margin: 20px;
 }
 
+.area{
+    display: flex;
+}
+
 .tab li.active a{
     background: #46ccb3;
 }
