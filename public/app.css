@@ -92,6 +92,7 @@ ul{
     display: grid;
     gap: 10px;
     grid-template-columns: 1fr 1fr 1fr;
+    aspect-ratio: 16 / 9;
 }
 
 .area{
@@ -101,7 +102,6 @@ ul{
     margin-left: 40px;
     margin-right: 40px;
     padding: 50px 10px;
-    aspect-ratio: 16/9;
 }
 
 .contents{
