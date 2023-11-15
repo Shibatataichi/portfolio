@@ -16,13 +16,21 @@ body{
     font-family: 'Arial Rounded MT',sans-serif;
 }
 
-a:hover{
-    color:#005e3a
+.a:link{
+    color: black;
+}
+
+.a:visited{
+     color: dimgray;
+}
+
+.a:hover{
+    color:#005e3a;
 
 }
 
-a:visited{
-     color: dimgray;
+.a:active{
+    color:#005e3a;
 }
 
 .main-nav{
