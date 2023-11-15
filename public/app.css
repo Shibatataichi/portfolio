@@ -16,20 +16,20 @@ body{
     font-family: 'Arial Rounded MT',sans-serif;
 }
 
-.li a:link{
+.main-nav li a:link{
     font-family: 'Arial Rounded MT',sans-serif;
     color: black;
 }
 
-.li a:visited{
+.main-nav li a:visited{
     color: rgb(150, 150, 150);
 }
 
-.li a:hover{
+.main-nav li a:hover{
     color:#005e3a;
 }
 
-.li a:active{
+.main-nav li a:active{
     color:#005e3a;
 }
 
