@@ -16,12 +16,12 @@ body{
     font-family: 'Arial Rounded MT',sans-serif;
 }
 
-.a:hober{
+a:hover{
     color:#005e3a
 
 }
 
-.a:visited{
+a:visited{
      color: dimgray;
 }
 
