@@ -17,11 +17,12 @@ body{
 }
 
 .a:link{
+    font-family: 'Arial Rounded MT',sans-serif;
     color: black;
 }
 
 .a:visited{
-     color: dimgray;
+     color: rgb(150, 150, 150);
 }
 
 .a:hover{
@@ -47,6 +48,7 @@ body{
     display: flex;
     justify-content: space-between;
 }
+
 .wrapper{
     max-width: 1900px;
     margin:auto;
@@ -54,7 +56,7 @@ body{
 }
 
 .home-content{
-    font-family: 'Arial',sans-serif;
+    font-family: 'Arial Rounded MT',sans-serif;
     font-weight: bold;
     font-size: 40px;
     text-align: center;
@@ -69,7 +71,7 @@ body{
 .item {
     margin: 0 0 0 20px;
     padding: 0;
-    font-family:'Arial',sans-serif;
+    font-family:'Arial Rounded MT',sans-serif;
 }
 
 .name{
