@@ -11,9 +11,18 @@ body{
     margin-left: 0px;
 }
 
-ul{
+.ul{
     list-style: none;
     font-family: 'Arial Rounded MT',sans-serif;
+}
+
+.a:hober{
+    color:#005e3a
+
+}
+
+.a:visited{
+     color: dimgray;
 }
 
 .main-nav{
